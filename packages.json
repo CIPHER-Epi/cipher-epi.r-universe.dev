@@ -6,7 +6,8 @@
   },
   {
     "package": "bayesian.simulations",
-    "url": "https://github.com/tfojo1/bayesian.simulations"
+    "url": "https://github.com/tfojo1/bayesian.simulations",
+    "branch": "master"
   },
   {
     "package": "distributions",
