@@ -1,0 +1,19 @@
+[
+  {
+    "package": "jheem2",
+    "url": "https://github.com/CIPHER-Epi/jheem2",
+    "branch": "*release"
+  },
+  {
+    "package": "bayesian.simulations",
+    "url": "https://github.com/tfojo1/bayesian.simulations"
+  },
+  {
+    "package": "distributions",
+    "url": "https://github.com/tfojo1/distributions"
+  },
+  {
+    "package": "locations",
+    "url": "https://github.com/tfojo1/locations"
+  }
+]
