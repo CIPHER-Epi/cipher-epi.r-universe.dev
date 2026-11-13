@@ -13,5 +13,9 @@ options(repos = c(cipher = "https://cipher-epi.r-universe.dev", CRAN = "https://
 install.packages("jheem2")
 ```
 
+r-universe checks the registry and the packages' repositories hourly and builds what changed: a new jheem2
+release appears after the next check. A package whose dependency in this universe was not built yet fails, and is
+built again only when its repository or this registry changes.
+
 To add a package, add an entry to `packages.json` (`package` must match the Package field of its DESCRIPTION).
 See the [r-universe documentation](https://docs.r-universe.dev/publish/set-up.html).
