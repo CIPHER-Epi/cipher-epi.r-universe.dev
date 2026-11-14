@@ -5,11 +5,6 @@
     "branch": "*release"
   },
   {
-    "package": "bayesian.simulations",
-    "url": "https://github.com/tfojo1/bayesian.simulations",
-    "branch": "master"
-  },
-  {
     "package": "distributions",
     "url": "https://github.com/tfojo1/distributions"
   },
